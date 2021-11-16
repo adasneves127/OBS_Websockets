@@ -1,0 +1,15 @@
+C:\Users\adasn\source\repos\OBS Websockets\OBS Websockets\obj\Debug\OBS Websockets.csprojAssemblyReference.cache
+C:\Users\adasn\source\repos\OBS Websockets\OBS Websockets\obj\Debug\OBS_Websockets.Properties.Resources.resources
+C:\Users\adasn\source\repos\OBS Websockets\OBS Websockets\obj\Debug\OBS Websockets.csproj.GenerateResource.cache
+C:\Users\adasn\source\repos\OBS Websockets\OBS Websockets\obj\Debug\OBS Websockets.csproj.CoreCompileInputs.cache
+C:\Users\adasn\source\repos\OBS Websockets\OBS Websockets\bin\Debug\OBS Websockets.exe.config
+C:\Users\adasn\source\repos\OBS Websockets\OBS Websockets\bin\Debug\OBS Websockets.exe
+C:\Users\adasn\source\repos\OBS Websockets\OBS Websockets\bin\Debug\OBS Websockets.pdb
+C:\Users\adasn\source\repos\OBS Websockets\OBS Websockets\bin\Debug\Newtonsoft.Json.dll
+C:\Users\adasn\source\repos\OBS Websockets\OBS Websockets\bin\Debug\OBS.WebSocket.NET.dll
+C:\Users\adasn\source\repos\OBS Websockets\OBS Websockets\bin\Debug\SuperSocket.ClientEngine.dll
+C:\Users\adasn\source\repos\OBS Websockets\OBS Websockets\bin\Debug\WebSocket4Net.dll
+C:\Users\adasn\source\repos\OBS Websockets\OBS Websockets\bin\Debug\Newtonsoft.Json.xml
+C:\Users\adasn\source\repos\OBS Websockets\OBS Websockets\obj\Debug\OBS Websockets.csproj.CopyComplete
+C:\Users\adasn\source\repos\OBS Websockets\OBS Websockets\obj\Debug\OBS Websockets.exe
+C:\Users\adasn\source\repos\OBS Websockets\OBS Websockets\obj\Debug\OBS Websockets.pdb
